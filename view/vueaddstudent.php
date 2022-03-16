@@ -1,4 +1,4 @@
-<?php $this->titre = "Form book"; ?>
+<?php $this->titre = "Form etudiants"; ?>
 
 <div class="container" style="background-color: green;">
   <div class="card" style="background-color: black; color: white;">
