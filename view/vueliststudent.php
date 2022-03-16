@@ -1,4 +1,4 @@
-<?php $this->titre = "My Books"; ?>
+<?php $this->titre = "les etudiants" ?>
 
 <div class="container" >
   <table class="table" style="background-color: gray;">
